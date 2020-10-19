@@ -1,0 +1,9 @@
+EXPERIMENTS:
+Figure 1:
+    python patches.py
+    python parse_patch_results.py
+Figure 2:
+    python imagenet.py
+    python parse_imagenet_results.py
+Figure 3:
+    python parity.py
